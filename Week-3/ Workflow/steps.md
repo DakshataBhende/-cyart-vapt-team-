@@ -67,3 +67,5 @@ This document outlines the step-by-step workflow followed to perform an Advanced
 ### Outcome:
 - Observed clear-text traffic and session activity
 - Generated evidence
+
+This report represents a summarized assessment of the complete VAPT lifecycle, while detailed technical evidence and screenshots are documented separately.
