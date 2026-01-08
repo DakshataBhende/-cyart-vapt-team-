@@ -1,4 +1,4 @@
-# PTES Penetration Testing Report
+# PTES Penetration Testing Report 
 
 ## 1. Executive Summary
 This penetration testing engagement was conducted in a controlled laboratory environment to assess the security posture of intentionally vulnerable systems. The objective was to identify vulnerabilities, validate their exploitability, and assess potential impact using industry-standard tools and methodologies. The assessment followed the Penetration Testing Execution Standard (PTES) to ensure a structured and repeatable approach.
