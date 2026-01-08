@@ -102,3 +102,10 @@ The assessment was conducted using the **PTES (Penetration Testing Execution Sta
   Screenshots of scan results and practical outputs.
 
 ---
+
+## Learning Outcomes
+- Practical understanding of vulnerability assessment tools
+- Hands-on experience in exploitation and post-exploitation
+- Improved incident documentation and reporting skills
+
+---
