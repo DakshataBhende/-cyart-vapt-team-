@@ -97,7 +97,7 @@ The assessment was conducted using the **PTES (Penetration Testing Execution Sta
 
 ### Reports
 - **`Doc/PTES.md`**  
-  Technical report aligned with PTES methodology.
+  Report aligned with PTES methodology.
 - **`Doc/Task Outputs.pdf`**  
   Screenshots of scan results and practical outputs.
 
