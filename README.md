@@ -58,21 +58,21 @@ The assessment was conducted using the **PTES (Penetration Testing Execution Sta
 
 ## Practical Work Summary
 
-### Advanced Exploitation
+### 1. Advanced Exploitation
 - Performed exploit chaining 
 - Customized exploit parameters for target environment
 - Successfully obtained session on Metasploitable 2
 
-### Web Application Penetration Testing
+### 2. Web Application Penetration Testing
 - Tested DVWA against OWASP Top 10 vulnerabilities
 - Identified critical SQL Injection and reflected XSS
 - Validated authentication and input handling flaws
 
-### Vulnerability Scanning
+### 3. Vulnerability Scanning
 - Conducted OpenVAS scans to identify system weaknesses
 - Mapped vulnerabilities to known CVEs and PTES phases
 
-### Post-Exploitation & Evidence Collection
+### 4. Post-Exploitation & Evidence Collection
 - Captured live HTTP traffic using Wireshark
 - Generated SHA-256 hashes to maintain chain-of-custody
 - Documented findings following forensic best practices
